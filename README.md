@@ -14,7 +14,7 @@ The app helps users understand whether their workouts are aligned with their fit
 4. Review previous workouts from the Workout History page.
 
 # Installation
- Open the project in MATLAB and download the application 
+ Open the application in MATLAB and download 
 
  Link:
   
