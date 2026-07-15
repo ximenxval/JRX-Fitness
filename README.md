@@ -15,7 +15,8 @@ The app helps users understand whether their workouts are aligned with their fit
 
 # Installation
  Open the project in MATLAB and download the application 
-  Link:
+
+ Link:
   
 # Data Processing
 The app imports wearable sensor data from MATLAB `.mat` files and uses MATLAB functions 
@@ -26,7 +27,9 @@ The app imports wearable sensor data from MATLAB `.mat` files and uses MATLAB fu
 
 # The Team
 Ximena Valdivia: Project Manager & Documentation Lead
+
 Reena Sivakumar: UI & Data Visualization
+
 Jaiden Jenkins: Data Processing
 
 # References
