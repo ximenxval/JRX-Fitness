@@ -19,9 +19,7 @@ The app imports wearable sensor data from MATLAB `.mat` files and uses MATLAB fu
 4. Review previous workouts from the Workout History page.
 
 # Installation
- Open the application in MATLAB and download 
- 
- Link: Jrx_team7.mlapp
+ Open the application in MATLAB (Online or Desktop) and download the file named: Jrx_team7.mlapp
 
 # Future Improvements
 - More personalized recommendations
