@@ -24,7 +24,8 @@ The app imports wearable sensor data from MATLAB `.mat` files and uses MATLAB fu
 3. Drag the .mlapp file into the left-hand side of the files panel 
 4. Where it says “Command Window”, type ‘appdesigner’ and press enter 
 5. This will prompt the App Designer Window where you can select the .mlapp file you would like to upload 
-6. Once that is uploaded, select the run button where the application can then be in use! 
+6. Once that is uploaded, select the run button where the application can then be in use!
+   **If having issues video on how to downloaded is provide above!**
 
 
 # Future Improvements
