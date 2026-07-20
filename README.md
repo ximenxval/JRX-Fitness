@@ -43,4 +43,7 @@ Jaiden Jenkins: Data Processing
 - World Health Organization Physical Activity Guidelines (2020)
 - Cleveland Clinic Heart Rate Zones
 - National Library of Medicine  (2021)
-- The Joint Chiropractor 
+- The Joint Chiropractor
+- Mass General Brigham 
+- Very Well Fit
+- Nike
